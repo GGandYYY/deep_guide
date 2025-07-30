@@ -2,7 +2,7 @@
 
 # Verse Implementation Plan
 
-## 1. MVP Roadmap
+## 1. MVP Roadmap （12312312312312312）
 
 ### Core MVP Features
 These critical features represent the minimum functionality needed for a successful launch, based on user research and technical feasibility analysis:

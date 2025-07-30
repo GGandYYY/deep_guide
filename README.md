@@ -4,7 +4,7 @@
 
 ## 1. MVP Roadmap （）
 
-### Core MVP Features
+### Core MVP Features 
 These critical features represent the minimum functionality needed for a successful launch, based on user research and technical feasibility analysis:
 
 1. **Micro-Recording System** - *Complete*
